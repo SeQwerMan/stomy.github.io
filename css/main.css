@@ -1,0 +1,33 @@
+body{
+    background: url("../img/Ford-Focus-3-RS-1.jpg");
+    font-family: 'Roboto', sans-serif;
+}
+#map{
+    width: 100%;
+    height: 400px;
+    background-color: grey;
+}
+.header{
+    margin-bottom:4rem;
+}
+.header .phone{
+    margin-bottom: 2rem;
+    display: flex;
+    flex-direction: row;
+}
+.header .price{
+    margin-top:3rem;
+}
+.header .head{
+    margin-bottom:3rem;
+}
+.header .img-remen{
+    margin-bottom:3rem;
+}
+.header .img-remen .img-fluid{
+    border-radius: 5%;
+    border: 2px solid #434065;
+}
+.about{
+    margin-bottom:3rem;
+}
